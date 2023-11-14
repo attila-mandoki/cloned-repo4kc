@@ -1,2 +1,1 @@
-2asd
-Testing WUT-567
+Test
